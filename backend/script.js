@@ -19,3 +19,7 @@ function hey(){
 function divide(a,b){
     return a/b;
 }
+
+function hehe(a,b){
+    return a%b;
+}
